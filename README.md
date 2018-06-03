@@ -20,11 +20,12 @@ TODO:
 - doporučená literatura (knížky) - o Pythonu, o dalších věcech, NTK, knihovničky, kde koupit
 - zajímavé Python knihovny - pandas, matplotlib, requests...
 - buzzwordy a intro do základních pojmů:
-  - HTTP, REST, GraphQL, sockety
+  - HTTP, REST, GraphQL, sockety, SOAP, XMLRPC
   - servery, SSH, cloud (AWS, GCP, Azure) a automatizace (boto3, Terraform), Docker, Kubernetes, microservices
-  - git, testování, TDD, CI, devops a SRE
+  - git, testování - unit/integrační/e2e/UI, TDD, A/B testy, feature flags, CI/CD, devops a SRE
   - ASCII, Unicode, UTF-8 a další kódování
   - šifrování - symetrické, asymetrické, TLS/SSL, GPG
-  - SQL, SQLAlchemy, sqlite a další databáze, nosql
+  - bezpečnost - CVE, webové aplikace, yaml.safe_load apod.
   - serializace a deserializace, JSON, YAML, XML, parsování
+  - SQL, ORM, SQLAlchemy, sqlite a další databáze, nosql
   - algoritmy a datové struktury: stromy, grafy, prohledávání (BFS, DFS, Dijkstra), ukázka použití
