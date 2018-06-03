@@ -15,9 +15,11 @@ TODO:
 - práce - tipy na firmy, které by zaměstnaly juniory
 - co sledovat
   - Twitter
+  - Facebook
+    - Pyonyri, dataflow.cz
   - newslettery
     - eventigo
-    - devopsish.com, 
+    - devopsish.com, pythonweekly.com
     - medium.com
 - SO, Google, jak vyhledávat, jak se ptát
 - směry, co se s Pythonem dá dělat: data, bio, devops, weby
