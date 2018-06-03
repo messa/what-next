@@ -45,6 +45,7 @@ TODO:
   - i18n, l10n
   - Javascript
     - React, Next.js, Gatsby.js
+  - operační systém, proces, stack, heap, mmap, pid...
 - "filosofie"
   - OOP a funkcionální programování
   - videa strejdy Boba :)
