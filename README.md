@@ -41,6 +41,7 @@ TODO:
   - SQL, ORM, SQLAlchemy, sqlite a další databáze, nosql
   - algoritmy a datové struktury: stromy, grafy, prohledávání (BFS, DFS, Dijkstra), ukázka použití
   - float vs. Decimal
+  - i18n, l10n
   - Javascript
     - React, Next.js, Gatsby.js
 - "filosofie"
