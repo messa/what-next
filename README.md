@@ -4,7 +4,11 @@ What next
 TODO:
 
 - seznamy IT akcí
+  - PyCon :), LinuxDays, Devel.cz
+  - Webexpo, Jobsdev.cz
 - online kurzy
+  - rosalind.info
+  - hackerrank
 - další kurzy
 - práce - tipy na firmy, které by zaměstnaly juniory
 - newslettery
@@ -17,7 +21,7 @@ TODO:
 - zajímavé Python knihovny - pandas, matplotlib, requests...
 - buzzwordy a intro do základních pojmů:
   - HTTP, REST, GraphQL, sockety
-  - servery, SSH, cloud (AWS, GCP, Azure) a automatizace (boto3, Terraform), Docker, Kubernetes
+  - servery, SSH, cloud (AWS, GCP, Azure) a automatizace (boto3, Terraform), Docker, Kubernetes, microservices
   - git, testování, TDD, CI, devops a SRE
   - ASCII, Unicode, UTF-8 a další kódování
   - šifrování - symetrické, asymetrické, TLS/SSL, GPG
