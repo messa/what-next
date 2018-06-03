@@ -21,6 +21,7 @@ TODO:
     - eventigo
     - devopsish.com, pythonweekly.com
     - medium.com
+  - http://docs.python-guide.org/
 - SO, Google, jak vyhledávat, jak se ptát
 - směry, co se s Pythonem dá dělat: data, bio, devops, weby
 - další jazyky a technologie (Javascript), Linux/macOS
