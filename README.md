@@ -6,12 +6,19 @@ TODO:
 - seznamy IT akcí
   - PyCon :), LinuxDays, Devel.cz
   - Webexpo, Jobsdev.cz
+  - MLMU.cz
 - online kurzy
   - rosalind.info
   - hackerrank
 - další kurzy
+- kam jít studovat - FIT, FEL
 - práce - tipy na firmy, které by zaměstnaly juniory
-- newslettery
+- co sledovat
+  - Twitter
+  - newslettery
+    - eventigo
+    - devopsish.com, 
+    - medium.com
 - SO, Google, jak vyhledávat, jak se ptát
 - směry, co se s Pythonem dá dělat: data, bio, devops, weby
 - další jazyky a technologie (Javascript), Linux/macOS
