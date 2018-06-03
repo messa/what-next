@@ -7,6 +7,7 @@ TODO:
   - PyCon :), LinuxDays, Devel.cz
   - Webexpo, Jobsdev.cz
   - MLMU.cz
+  - Goto, NDC
 - online kurzy
   - rosalind.info
   - hackerrank
@@ -39,3 +40,6 @@ TODO:
   - serializace a deserializace, JSON, YAML, XML, parsování
   - SQL, ORM, SQLAlchemy, sqlite a další databáze, nosql
   - algoritmy a datové struktury: stromy, grafy, prohledávání (BFS, DFS, Dijkstra), ukázka použití
+- "filosofie"
+  - OOP a funkcionální programování
+  - videa strejdy Boba :)
