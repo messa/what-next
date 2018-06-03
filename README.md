@@ -32,7 +32,7 @@ TODO:
 - zajímavé Python knihovny - pandas, matplotlib, requests...
 - buzzwordy a intro do základních pojmů:
   - HTTP, REST, GraphQL, sockety, SOAP, XMLRPC
-  - servery, SSH, cloud (AWS, GCP, Azure) a automatizace (boto3, Terraform), Docker, Kubernetes, microservices
+  - servery, SSH, cloud (AWS, GCP, Azure) a automatizace (boto3, Terraform), Docker, Kubernetes, microservices, serverless
   - git, testování - unit/integrační/e2e/UI, TDD, A/B testy, feature flags, CI/CD, devops a SRE
   - ASCII, Unicode, UTF-8 a další kódování
   - šifrování - symetrické, asymetrické, TLS/SSL, GPG
@@ -40,6 +40,7 @@ TODO:
   - serializace a deserializace, JSON, YAML, XML, parsování
   - SQL, ORM, SQLAlchemy, sqlite a další databáze, nosql
   - algoritmy a datové struktury: stromy, grafy, prohledávání (BFS, DFS, Dijkstra), ukázka použití
+  - float vs. Decimal
 - "filosofie"
   - OOP a funkcionální programování
   - videa strejdy Boba :)
