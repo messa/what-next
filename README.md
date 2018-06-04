@@ -50,6 +50,7 @@ Nápady, co do tohoto dokumentu doplnit:
   - ASCII, Unicode, UTF-8 a další kódování
   - šifrování - symetrické, asymetrické, TLS/SSL, GPG
   - bezpečnost - CVE, webové aplikace, yaml.safe_load apod.
+    - https://stackoverflow.com/questions/1998104/is-it-safe-to-use-user-input-for-pythons-regular-expressions
   - serializace a deserializace, JSON, YAML, XML, parsování
   - SQL, ORM, SQLAlchemy, sqlite a další databáze, nosql
   - algoritmy a datové struktury: stromy, grafy, prohledávání (BFS, DFS, Dijkstra), ukázka použití
