@@ -1,7 +1,20 @@
 What next
 =========
 
-TODO:
+Přehled možností a tipů, jak a čím pokračovat po dokončení základního kurzu [Pyladies](http://pyladies.cz) nebo podobného kurzu/workshopu pro úplné začátečníky.
+
+
+Další kurzy
+-----------
+
+- [Ostrapy](http://ostrapy.pythonanywhere.com/) - workshop pro biology; letošní ročník (2018) je plný
+- [Engeto Python akademie](https://engeto.cz/python-akademie/)
+
+
+TODO
+----
+
+Nápady, co do tohoto dokumentu doplnit:
 
 - seznamy IT akcí
   - PyCon :), LinuxDays, Devel.cz
@@ -11,7 +24,6 @@ TODO:
 - online kurzy
   - rosalind.info
   - hackerrank
-- další kurzy
 - kam jít studovat - FIT, FEL
 - práce - tipy na firmy, které by zaměstnaly juniory
 - co sledovat
