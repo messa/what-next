@@ -62,3 +62,4 @@ Nápady, co do tohoto dokumentu doplnit:
 - "filosofie"
   - OOP a funkcionální programování
   - videa strejdy Boba :)
+  - coding standards
