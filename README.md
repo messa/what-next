@@ -17,10 +17,12 @@ TODO
 Nápady, co do tohoto dokumentu doplnit:
 
 - seznamy IT akcí
-  - PyCon :), LinuxDays, Devel.cz
-  - Webexpo, Jobsdev.cz
-  - MLMU.cz
-  - Goto, NDC
+  - konference
+    - PyCon :), LinuxDays, Devel.cz
+    - Webexpo, Jobsdev.cz
+    - Goto, NDC
+  . meetupy
+    - MLMU.cz
 - online kurzy
   - rosalind.info
   - hackerrank
@@ -63,3 +65,7 @@ Nápady, co do tohoto dokumentu doplnit:
   - OOP a funkcionální programování
   - videa strejdy Boba :)
   - coding standards
+- něco na odlehčení :)
+  - filmy
+  - vtipy, komiksy, eseje...
+    - xkcd, hackles...
