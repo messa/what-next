@@ -7,8 +7,64 @@ Přehled možností a tipů, jak a čím pokračovat po dokončení základního
 Další kurzy
 -----------
 
-- [Ostrapy](http://ostrapy.pythonanywhere.com/) - workshop pro biology; letošní ročník (2018) je plný
-- [Engeto Python akademie](https://engeto.cz/python-akademie/)
+[Ostrapy](http://ostrapy.pythonanywhere.com/) - workshop pro biology; letošní ročník (2018) je plný
+
+[Engeto Python akademie](https://engeto.cz/python-akademie/)
+
+
+Co sledovat on-line
+-------------------
+
+### Twitter
+
+Pyvec a spol.:
+[@pyvec](https://twitter.com/pyvec)
+[@napyvo](https://twitter.com/napyvo)
+[@pyconcz](https://twitter.com/pyconcz)
+[@PyLadiesCZ](https://twitter.com/PyLadiesCZ)
+
+[@thepsf](https://twitter.com/thepsf) – The Python Software Foundation
+
+
+### Facebook
+
+[Pyonieri – Python SR & ČR](https://www.facebook.com/groups/pyonieri/)
+
+[PyWorking Praha](https://www.facebook.com/groups/PyWorkingPraha/)
+
+[Data Analysts, Data Engineers & Data Scientists – Czech&Slovak Group (dataflow.cz)](https://www.facebook.com/groups/1748211855469456)
+
+
+### Newslettery
+
+[eventigo.cz](https://eventigo.cz) – každý čtvrtek přehled IT akcí na další týden
+
+[pythonweekly.com](http://pythonweekly.com) – A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python
+
+[DevOps'ish](https://devopsish.com) – DevOps, Cloud Native, Open Source, and the ‘ish in between.
+
+[Medium.com](https://medium.com) – Medium je blogovací platforma, dá se dobře prohledávat, doporučuje zajímavý obsah, posílá newslettery s novými články... Něco si tam najděte :) Třeba:
+
+[HackerNoon.com](https://hackernoon.com)
+
+
+Kam chodit: meetupy
+--------------------
+
+[Pyvo.cz](https://pyvo.cz)
+
+[PyWorking.cz](https://pyworking.cz)
+
+[mlmu.cz](http://www.mlmu.cz) – Machine Learning Meetups
+
+
+Co si přečíst
+-------------
+
+The Hitchhiker’s Guide to Python: [docs.python-guide.org](http://docs.python-guide.org/)
+
+The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets:
+[www.joelonsoftware.com/2003/10/08/the-absolute-minimum...](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
 TODO
@@ -21,22 +77,11 @@ Nápady, co do tohoto dokumentu doplnit:
     - PyCon :), LinuxDays, Devel.cz
     - Webexpo, Jobsdev.cz
     - Goto, NDC
-  . meetupy
-    - MLMU.cz
 - online kurzy
   - rosalind.info
   - hackerrank
 - kam jít studovat - FIT, FEL
 - práce - tipy na firmy, které by zaměstnaly juniory
-- co sledovat
-  - Twitter
-  - Facebook
-    - Pyonyri, dataflow.cz
-  - newslettery
-    - eventigo
-    - devopsish.com, pythonweekly.com
-    - medium.com
-  - http://docs.python-guide.org/
 - SO, Google, jak vyhledávat, jak se ptát
 - směry, co se s Pythonem dá dělat: data, bio, devops, weby
 - další jazyky a technologie (Javascript), Linux/macOS
