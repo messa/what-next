@@ -12,6 +12,14 @@ Další kurzy
 [Engeto Python akademie](https://engeto.cz/python-akademie/)
 
 
+Online kurzy
+------------
+
+[RealPython.com](https://realpython.com/)
+
+[The Flask Mega-Tutorial (blog.miguelgrinberg.com)](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+
 Co sledovat on-line
 -------------------
 
