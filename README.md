@@ -107,6 +107,20 @@ Základní knihovny, o kterých je dobré vědět
 [Pandas](https://pandas.pydata.org) – Python Data Analysis Library
 
 
+Kam jít pracovat 
+----------------
+
+[python.cz/prace](https://python.cz/prace/)
+
+[StartupJobs.cz](https://www.startupjobs.cz/nabidky?jobfield=15)
+
+RedHat
+
+[Seznam.cz](https://kariera.seznam.cz/)
+
+[CZ.NIC](https://www.nic.cz/page/321/kariera-v-cznic/)
+
+
 TODO
 ----
 
