@@ -41,6 +41,8 @@ Pyvec a spol.:
 
 [pythonweekly.com](http://pythonweekly.com) – A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python
 
+[Pycoder's Weekly](http://www.pycoders.com/)
+
 [DevOps'ish](https://devopsish.com) – DevOps, Cloud Native, Open Source, and the ‘ish in between.
 
 [Medium.com](https://medium.com) – Medium je blogovací platforma, dá se dobře prohledávat, doporučuje zajímavý obsah, posílá newslettery s novými články... Něco si tam najděte :) Třeba:
