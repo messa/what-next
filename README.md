@@ -126,6 +126,21 @@ Kam jít pracovat
 
 [StartupJobs.cz](https://www.startupjobs.cz/nabidky?jobfield=15)
 
+Typy pracovních pozic (a případně celých firem) vzhledem k Pythonu by se daly rozdělit asi takto:
+
+- práce na produktu, který tvoří hlavní příjem firmy a jehož hlavní business kód je psán (především) v Pythonu - velkou podmnožinou je zde Django. Pro začátek stačí v podstatě umět aspoň základy Pythonu.
+
+- práce na něčem, co je primárně napsáno v Pythonu, ale ve firmě, která toho dělá spoustu dalšího (kromě Pythonu) - to samé co výše, akorát ta firma asi nebude tak známá/profláklá v Python komunitě :) 
+
+- práce na něčem, co primárně není v Pythonu (nebo o Pythonu), ale pár věcí okolo je v Pythonu - např. automatizace cloudu/devops/SRE, ETL skripty, analýza dat, výzkum/prototypování něčeho (např. AI/machine learning) - typicky je zde Python "jen" nástroj a je potřeba znát primárně tu hlavní oblast, která se (pomocí Pythonu) řeší.
+
+- když žádný Python není: nemělo by být až tak těžké naučit se jiný podobný jazyk - Javascript, Ruby :)
+
+Typicky se beztak používají kombinace více technologií: Python + Javascript, Python + Javascript + Java, Python + C++, ...
+
+
+### Firmy, kde se docela hodně pracuje s Pythonem
+
 RedHat
 
 [Seznam.cz](https://kariera.seznam.cz/)
