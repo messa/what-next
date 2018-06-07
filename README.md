@@ -95,6 +95,18 @@ The Absolute Minimum Every Software Developer Absolutely, Positively Must Know A
 [www.joelonsoftware.com/2003/10/08/the-absolute-minimum...](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
+Základní knihovny, o kterých je dobré vědět
+-------------------------------------------
+
+[Requests](http://docs.python-requests.org/) – HTTP klient
+
+[Flask](http://flask.pocoo.org)
+
+[Django](https://www.djangoproject.com)
+
+[Pandas](https://pandas.pydata.org) – Python Data Analysis Library
+
+
 TODO
 ----
 
