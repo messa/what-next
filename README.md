@@ -79,6 +79,16 @@ PyCon CZ 2019 Ostrava
 Co si přečíst
 -------------
 
+[The Python Tutorial](https://docs.python.org/3/tutorial/)
+
+[The Python Standard Library](https://docs.python.org/3/library/)
+
+[Python HOWTOs](https://docs.python.org/3/howto/)
+
+[Python Frequently Asked Questions](https://docs.python.org/3/faq/)
+
+[Python Changelog](https://docs.python.org/3/whatsnew/changelog.html)
+
 The Hitchhiker’s Guide to Python: [docs.python-guide.org](http://docs.python-guide.org/)
 
 The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets:
