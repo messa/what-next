@@ -58,6 +58,24 @@ Kam chodit: meetupy
 [mlmu.cz](http://www.mlmu.cz) – Machine Learning Meetups
 
 
+Kam zajít: konference
+---------------------
+
+[JobsDev.cz] 19. 5. 2018 Praha
+
+[PyCon CZ](https://cz.pycon.org/) 1.-3. 6. 2018 Praha
+
+[Devel.cz konference](https://devel.cz/konference) 16. 6. 2018 Praha
+
+[WEBEXPO 2018](https://www.webexpo.net/prague2018/) 21.-22. 9. 2018 Praha
+
+[LinuxDays 2018](https://www.linuxdays.cz/2018/) 6.-7. 10. 2018 Praha
+
+[Machine Learning Prague 2019](https://www.mlprague.com) 22.-24. 2. 2019 Praha
+
+PyCon CZ 2019 Ostrava
+
+
 Co si přečíst
 -------------
 
@@ -74,9 +92,6 @@ Nápady, co do tohoto dokumentu doplnit:
 
 - seznamy IT akcí
   - konference
-    - PyCon :), LinuxDays, Devel.cz
-    - Webexpo, Jobsdev.cz
-    - Goto, NDC
 - online kurzy
   - rosalind.info
   - hackerrank
