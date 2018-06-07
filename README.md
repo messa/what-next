@@ -89,6 +89,8 @@ Co si přečíst
 
 [Python Changelog](https://docs.python.org/3/whatsnew/changelog.html)
 
+[Python 3 Module of the Week](https://pymotw.com/3/)
+
 The Hitchhiker’s Guide to Python: [docs.python-guide.org](http://docs.python-guide.org/)
 
 The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets:
