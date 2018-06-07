@@ -61,7 +61,7 @@ Kam chodit: meetupy
 Kam zajít: konference
 ---------------------
 
-[JobsDev.cz] 19. 5. 2018 Praha
+[JobsDev.cz](https://www.jobsdev.cz) 19. 5. 2018 Praha
 
 [PyCon CZ](https://cz.pycon.org/) 1.-3. 6. 2018 Praha
 
