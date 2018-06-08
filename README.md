@@ -7,7 +7,7 @@ Přehled možností a tipů, jak a čím pokračovat po dokončení základního
 Další kurzy
 -----------
 
-[Ostrapy](http://ostrapy.pythonanywhere.com/) - workshop pro biology; letošní ročník (2018) je plný
+[Ostrapy](http://ostrapy.pythonanywhere.com/) – workshop pro biology; letošní ročník (2018) je plný
 
 [Engeto Python akademie](https://engeto.cz/python-akademie/)
 
@@ -18,6 +18,10 @@ Online kurzy
 [RealPython.com](https://realpython.com/)
 
 [The Flask Mega-Tutorial (blog.miguelgrinberg.com)](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+[Rosalind](http://rosalind.info/) – learning bioinformatics and programming through problem solving
+
+[HackerRank.com](https://www.hackerrank.com/dashboard) – řešení praktických úloh
 
 
 Co sledovat on-line
@@ -153,11 +157,6 @@ TODO
 
 Nápady, co do tohoto dokumentu doplnit:
 
-- seznamy IT akcí
-  - konference
-- online kurzy
-  - rosalind.info
-  - hackerrank
 - kam jít studovat - FIT, FEL
 - práce - tipy na firmy, které by zaměstnaly juniory
 - SO, Google, jak vyhledávat, jak se ptát
