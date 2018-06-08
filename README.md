@@ -90,8 +90,8 @@ Kam zajít: konference
 PyCon CZ 2019 Ostrava
 
 
-Co si přečíst
--------------
+Co si přečíst nejdřív
+---------------------
 
 [The Python Tutorial](https://docs.python.org/3/tutorial/)
 
@@ -111,6 +111,42 @@ The Absolute Minimum Every Software Developer Absolutely, Positively Must Know A
 [www.joelonsoftware.com/2003/10/08/the-absolute-minimum...](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
+Knižky
+------
+
+### Knížky ke stažení zdarma
+
+Typicky zdarma ke stažení, ale s možností zakoupit i papírovou formu.
+
+[Edice CZ.NIC](https://knihy.nic.cz/) _TODO: doplnit info_
+
+- "PRŮVODCE LABYRINTEM ALGORITMŮ", MARTIN MAREŠ, TOMÁŠ VALLA
+
+- "VÝKONNOST OPEN SOURCE APLIKACÍ", TAVISH ARMSTRONG
+
+- ”PONOŘME SE DO HTML5“, MARK PILGRIM
+
+- "TVORBA OPEN SOURCE SOFTWARU", KARL FOGEL
+
+- "PONOŘME SE DO PYTHON(U) 3", MARK PILGRIM
+
+- "PRO GIT", SCOTT CHACON
+
+
+### Knížky, které najdete v knihkupectví
+
+TODO: udělat výpravu do knihkupectví a shrnout zde nálezy :)
+
+
+### Kde si půjčit knížku
+
+Knihy, které nejsou ke stažení zdarma, i tak nemusíte kupovat – od toho máme knihovny :)
+
+[Národní technická knihovna (NTK)](https://www.techlib.cz/cs/)
+
+[Pyvec Knihovnička](https://github.com/pyvec/bookshelf)
+
+
 Základní knihovny, o kterých je dobré vědět
 -------------------------------------------
 
@@ -121,6 +157,14 @@ Základní knihovny, o kterých je dobré vědět
 [Django](https://www.djangoproject.com)
 
 [Pandas](https://pandas.pydata.org) – Python Data Analysis Library
+
+
+Základní pojmy v IT světě
+-------------------------
+
+### Algoritmy, datové struktury
+
+[Algoritmy.net](https://algoritmy.net/) – v podstatě online učebnice
 
 
 Kam jít pracovat 
