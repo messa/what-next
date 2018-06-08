@@ -11,6 +11,8 @@ Další kurzy
 
 [Engeto Python akademie](https://engeto.cz/python-akademie/)
 
+[Czechitas Digitální akademie](https://www.czechitas.cz/cs/co-delame/digitalni-akademie)
+
 
 Online kurzy
 ------------
@@ -45,6 +47,8 @@ Pyvec a spol.:
 [PyWorking Praha](https://www.facebook.com/groups/PyWorkingPraha/)
 
 [Data Analysts, Data Engineers & Data Scientists – Czech&Slovak Group (dataflow.cz)](https://www.facebook.com/groups/1748211855469456)
+
+[Czechitas Příležitosti](https://www.facebook.com/groups/292829031070632/)
 
 
 ### Newslettery
