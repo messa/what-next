@@ -66,6 +66,11 @@ Pyvec a spol.:
 [HackerNoon.com](https://hackernoon.com)
 
 
+### Podcasty
+
+[Talk Python to me](https://talkpython.fm/)
+
+
 Kam chodit: meetupy
 --------------------
 
