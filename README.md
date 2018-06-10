@@ -120,7 +120,7 @@ The Absolute Minimum Every Software Developer Absolutely, Positively Must Know A
 [www.joelonsoftware.com/2003/10/08/the-absolute-minimum...](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
-Knižky
+Knížky
 ------
 
 ### Knížky ke stažení zdarma
@@ -141,6 +141,8 @@ Typicky zdarma ke stažení, ale s možností zakoupit i papírovou formu.
 
 - "PRO GIT", SCOTT CHACON
 
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) a [další knihy Ala Sweigarta](https://inventwithpython.com/)
+
 
 ### Knížky, které najdete v knihkupectví
 
@@ -151,7 +153,7 @@ TODO: udělat výpravu do knihkupectví a shrnout zde nálezy :)
 
 Knihy, které nejsou ke stažení zdarma, i tak nemusíte kupovat – od toho máme knihovny :)
 
-[Národní technická knihovna (NTK)](https://www.techlib.cz/cs/)
+[Národní technická knihovna (NTK)](https://www.techlib.cz/cs/) - vedle solidní nabídky [papírových knih](https://vufind.techlib.cz/Search/Results?filter%5B%5D=collection%3A%22NTK%22&lookfor=python&type=AllFields&sort=year) umožňuje také vzdálený přístup k mnoha elektronickým zdrojům včetně [e-booků](http://techlib.summon.serialssolutions.com/cs-CZ/#!/search?ho=t&fvf=IsFullText,true,f%7CContentType,Book%20%2F%20eBook,f&rf=PublicationDate,2013-06-09:2018-06-09&l=cs-CZ&q=python)
 
 [Pyvec Knihovnička](https://github.com/pyvec/bookshelf)
 
