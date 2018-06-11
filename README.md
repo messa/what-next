@@ -170,8 +170,19 @@ Knihy, které nejsou ke stažení zdarma, i tak nemusíte kupovat – od toho m�
 [Pyvec Knihovnička](https://github.com/pyvec/bookshelf)
 
 
-Základní knihovny, o kterých je dobré vědět
--------------------------------------------
+### Klasické knížky o programování
+
+Informatika, J. Glenn Brookshear
+
+Clean Code: A Habook of Agile Software Craftsmanship, Robert C. Martin
+
+Domain-Driven Design: Tackling Complexity in the Heart of Software, Eric Evans
+
+TODO: doplnit odkazy, obrázky, vysvětlivky
+
+
+Základní Python knihovny, o kterých je dobré vědět
+--------------------------------------------------
 
 [Requests](http://docs.python-requests.org/) – HTTP klient
 
@@ -180,6 +191,12 @@ Základní knihovny, o kterých je dobré vědět
 [Django](https://www.djangoproject.com)
 
 [Pandas](https://pandas.pydata.org) – Python Data Analysis Library
+
+[Matplotlib](https://matplotlib.org/) – 2D plotting library
+
+[PyYAML](https://github.com/yaml/pyyaml) - YAML je datový formát vhodný pro ukládání dat a konfigurace
+
+[Cython](http://cython.org/) – kombinování Python a C/C++ pro vyšší výkon nebo integraci s C knihovnami
 
 
 Základní pojmy v IT světě
