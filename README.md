@@ -13,6 +13,8 @@ Další kurzy
 
 [Czechitas Digitální akademie](https://www.czechitas.cz/cs/co-delame/digitalni-akademie)
 
+[PyWorking.cz](https://pyworking.cz) workshopy
+
 
 Online kurzy
 ------------
@@ -24,6 +26,16 @@ Online kurzy
 [Rosalind](http://rosalind.info/) – learning bioinformatics and programming through problem solving
 
 [HackerRank.com](https://www.hackerrank.com/dashboard) – řešení praktických úloh
+
+
+Summer of code, internshipy
+---------------------------
+
+https://1millionwomentotech.com/summerofcode1/
+
+https://summerofcode.withgoogle.com/
+
+https://kiwicominternships.cz/
 
 
 Co sledovat on-line
