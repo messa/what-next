@@ -214,6 +214,8 @@ Kam jít pracovat
 
 [StartupJobs.cz](https://www.startupjobs.cz/nabidky?jobfield=15)
 
+[Czechitas Jobs Fair](https://www.czechitas.cz/cs/kalendar-akci/akce/8433/) – poslední byl 9. června 2018, hlídejte si na jejich webu, kdy bude další
+
 Typy pracovních pozic (a případně celých firem) vzhledem k Pythonu by se daly rozdělit asi takto:
 
 - práce na produktu, který tvoří hlavní příjem firmy a jehož hlavní business kód je psán (především) v Pythonu - velkou podmnožinou je zde Django. Pro začátek stačí v podstatě umět aspoň základy Pythonu.
