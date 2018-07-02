@@ -155,6 +155,8 @@ Typicky zdarma ke stažení, ale s možností zakoupit i papírovou formu.
 
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) a [další knihy Ala Sweigarta](https://inventwithpython.com/)
 
+[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 
 ### Knížky, které najdete v knihkupectví
 
@@ -205,6 +207,8 @@ Data science apod.
 [Lekce Data ze základního kurzu Pyladies](https://naucse.python.cz/2018/pyladies-praha-jaro-cznic/sessions/data/) - Jupyter Notebook, Pandas
 
 [Python a jeho knihovny](https://naucse.python.cz/2018/pyknihovny-jaro/) - obsahuje mimojiné lekce o Pandas a NumPy
+
+[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 
 Základní pojmy v IT světě
