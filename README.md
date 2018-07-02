@@ -199,6 +199,14 @@ Základní Python knihovny, o kterých je dobré vědět
 [Cython](http://cython.org/) – kombinování Python a C/C++ pro vyšší výkon nebo integraci s C knihovnami
 
 
+Data science apod.
+------------------
+
+[Lekce Data ze základního kurzu Pyladies](https://naucse.python.cz/2018/pyladies-praha-jaro-cznic/sessions/data/) - Jupyter Notebook, Pandas
+
+[Python a jeho knihovny](https://naucse.python.cz/2018/pyknihovny-jaro/) - obsahuje mimojiné lekce o Pandas a NumPy
+
+
 Základní pojmy v IT světě
 -------------------------
 
