@@ -27,6 +27,8 @@ Online kurzy
 
 [HackerRank.com](https://www.hackerrank.com/dashboard) – řešení praktických úloh
 
+[MDN: Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+
 
 Summer of code, internshipy
 ---------------------------
