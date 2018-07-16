@@ -25,9 +25,15 @@ Online kurzy
 
 [Rosalind](http://rosalind.info/) – learning bioinformatics and programming through problem solving
 
+[MDN: Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+
+
+Úlohy na procvičování
+---------------------
+
 [HackerRank.com](https://www.hackerrank.com/dashboard) – řešení praktických úloh
 
-[MDN: Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+[github.com/tystar86/python_exercises](https://github.com/tystar86/python_exercises)
 
 
 Summer of code, internshipy
