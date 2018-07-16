@@ -218,6 +218,8 @@ Data science apod.
 
 [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+[Coursera Machine Learning kurz (Andrew Ng, Stanford)](https://www.coursera.org/learn/machine-learning)
+
 
 Základní pojmy v IT světě
 -------------------------
