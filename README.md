@@ -27,6 +27,8 @@ Online kurzy
 
 [MDN: Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 
+[freeCodeCamp](https://learn.freecodecamp.org/)
+
 
 Úlohy na procvičování
 ---------------------
