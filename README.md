@@ -15,6 +15,8 @@ Další kurzy
 
 [PyWorking.cz](https://pyworking.cz) workshopy
 
+[edu.lynt.cz](https://edu.lynt.cz/) – Plzeň
+
 
 Online kurzy
 ------------
