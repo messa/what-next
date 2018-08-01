@@ -224,6 +224,10 @@ Data science apod.
 
 [Coursera Machine Learning kurz (Andrew Ng, Stanford)](https://www.coursera.org/learn/machine-learning)
 
+[Pandas workshop materials](https://github.com/pyvec/pyworking-materials/tree/master/170902_Pandas) - see
+[Pandas cheatsheet](https://github.com/pyvec/pyworking-materials/blob/master/170902_Pandas/Cheatsheets/pandas-cheat-sheet.pdf)
+and [Jupyter cheatsheet](https://github.com/pyvec/pyworking-materials/blob/master/170902_Pandas/Cheatsheets/weidadeyue_jupyter-notebook.bw.pdf)
+
 
 Základní pojmy v IT světě
 -------------------------
