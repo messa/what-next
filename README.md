@@ -31,6 +31,8 @@ Online kurzy
 
 [freeCodeCamp](https://learn.freecodecamp.org/)
 
+[Pyladies Remote](http://remote.pyladies.com)
+
 
 Úlohy na procvičování
 ---------------------
@@ -73,6 +75,8 @@ Pyvec a spol.:
 [Data Analysts, Data Engineers & Data Scientists – Czech&Slovak Group (dataflow.cz)](https://www.facebook.com/groups/1748211855469456)
 
 [Czechitas Příležitosti](https://www.facebook.com/groups/292829031070632/)
+
+[Učíme Python](https://www.facebook.com/groups/ucimepython/)
 
 
 ### Newslettery
