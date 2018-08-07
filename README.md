@@ -122,6 +122,8 @@ Kam zajít: konference
 
 [LinuxDays 2018](https://www.linuxdays.cz/2018/) 6.-7. 10. 2018 Praha
 
+[OpenAlt](https://openalt.cz/2018/) 3.-4. 11. 2018
+
 [Machine Learning Prague 2019](https://www.mlprague.com) 22.-24. 2. 2019 Praha
 
 PyCon CZ 2019 Ostrava
