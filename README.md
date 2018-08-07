@@ -177,6 +177,8 @@ Typicky zdarma ke stažení, ale s možností zakoupit i papírovou formu.
 
 [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+https://python-textbok.readthedocs.io/en/1.0/
+
 
 ### Knížky, které najdete v knihkupectví
 
