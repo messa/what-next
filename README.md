@@ -65,6 +65,8 @@ Pyvec a spol.:
 
 [@thepsf](https://twitter.com/thepsf) – The Python Software Foundation
 
+[@python_tip](https://twitter.com/python_tip) – Daily Python Tip
+
 
 ### Facebook
 
