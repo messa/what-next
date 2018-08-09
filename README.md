@@ -33,6 +33,8 @@ Online kurzy
 
 [Pyladies Remote](http://remote.pyladies.com)
 
+[github.com/anastazie/programming-fundamentals](https://github.com/anastazie/programming-fundamentals)
+
 
 Úlohy na procvičování
 ---------------------
