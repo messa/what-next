@@ -43,6 +43,8 @@ Online kurzy
 
 [github.com/tystar86/python_exercises](https://github.com/tystar86/python_exercises)
 
+[Codewars.com](https://www.codewars.com/)
+
 
 Summer of code, internshipy
 ---------------------------
@@ -101,6 +103,8 @@ Pyvec a spol.:
 ### Podcasty
 
 [Talk Python to me](https://talkpython.fm/)
+
+[codenewbie.org](https://www.codenewbie.org/)
 
 
 Kam chodit: meetupy
