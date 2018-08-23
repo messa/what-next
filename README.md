@@ -17,6 +17,8 @@ Další kurzy
 
 [edu.lynt.cz](https://edu.lynt.cz/) – Plzeň
 
+[Inventi React akademie](https://www.inventi.cz/akademie/react-akademie)
+
 
 Online kurzy
 ------------
