@@ -51,6 +51,8 @@ Online kurzy
 
 [Bus fleet (homework)](https://docs.google.com/document/d/1LTf2-077v4KF1LKgR6tUA68Z6iIHGz-qcLTrs7pF8Js/edit?usp=sharing) – úloha na procvičení OOP
 
+[Engeto ukoly](https://hack.engeto.com/ukoly)
+
 
 Summer of code, internshipy
 ---------------------------
