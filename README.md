@@ -236,6 +236,10 @@ Základní Python knihovny, o kterých je dobré vědět
 
 [Cython](http://cython.org/) – kombinování Python a C/C++ pro vyšší výkon nebo integraci s C knihovnami
 
+[Scrapy](https://scrapy.org/)
+
+[Celery](http://www.celeryproject.org/)
+
 
 Data science apod.
 ------------------
@@ -278,6 +282,12 @@ RedHat
 [Seznam.cz](https://kariera.seznam.cz/)
 
 [CZ.NIC](https://www.nic.cz/page/321/kariera-v-cznic/)
+
+
+Různé
+-----
+
+https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d
 
 
 TODO
