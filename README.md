@@ -256,6 +256,8 @@ Data science apod.
 [Pandas cheatsheet](https://github.com/pyvec/pyworking-materials/blob/master/170902_Pandas/Cheatsheets/pandas-cheat-sheet.pdf)
 and [Jupyter cheatsheet](https://github.com/pyvec/pyworking-materials/blob/master/170902_Pandas/Cheatsheets/weidadeyue_jupyter-notebook.bw.pdf)
 
+[Google Colaboratory](http://colab.research.google.com/) – Jupyter notebook v cloudu (a zdarma)
+
 
 Základní pojmy v IT světě
 -------------------------
