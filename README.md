@@ -258,6 +258,8 @@ and [Jupyter cheatsheet](https://github.com/pyvec/pyworking-materials/blob/maste
 
 [Google Colaboratory](http://colab.research.google.com/) – Jupyter notebook v cloudu (a zdarma)
 
+[jq](https://stedolan.github.io/jq/) – JSON/JSONL procesor v příkazovém řádku
+
 
 Základní pojmy v IT světě
 -------------------------
