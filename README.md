@@ -3,6 +3,8 @@ What next
 
 Přehled možností a tipů, jak a čím pokračovat po dokončení základního kurzu [Pyladies](http://pyladies.cz) nebo podobného kurzu/workshopu pro úplné začátečníky.
 
+Proklikej každý odkaz :)
+
 
 Další kurzy
 -----------
