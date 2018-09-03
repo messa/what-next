@@ -21,6 +21,8 @@ Další kurzy
 
 [Inventi React akademie](https://www.inventi.cz/akademie/react-akademie)
 
+[GreenFoxAcademy.cz](https://www.greenfoxacademy.cz/)
+
 
 Online kurzy
 ------------
