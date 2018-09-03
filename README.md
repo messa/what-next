@@ -264,8 +264,8 @@ Základní Python knihovny, o kterých je dobré vědět
 [Celery](http://www.celeryproject.org/)
 
 
-Data science apod.
-------------------
+Data science, Machine learning
+------------------------------
 
 [Lekce Data ze základního kurzu Pyladies](https://naucse.python.cz/2018/pyladies-praha-jaro-cznic/sessions/data/) - Jupyter Notebook, Pandas
 
@@ -282,6 +282,8 @@ and [Jupyter cheatsheet](https://github.com/pyvec/pyworking-materials/blob/maste
 [Google Colaboratory](http://colab.research.google.com/) – Jupyter notebook v cloudu (a zdarma)
 
 [jq](https://stedolan.github.io/jq/) – JSON/JSONL procesor v příkazovém řádku
+
+[Artificial intelligence na FEL ČVUT](https://cw.fel.cvut.cz/wiki/courses/ui/lectures)
 
 
 Základní pojmy v IT světě
