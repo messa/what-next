@@ -40,8 +40,8 @@ Online kurzy
 [github.com/anastazie/programming-fundamentals](https://github.com/anastazie/programming-fundamentals)
 
 
-OCW, MOOC
----------
+Univerzitní kurzy, OCW, MOOC
+----------------------------
 
 [ocw.mit.edu](https://ocw.mit.edu/search/ocwsearch.htm?q=python)
 
@@ -50,6 +50,10 @@ OCW, MOOC
 [online.stanford.edu](https://online.stanford.edu/courses?topics%5B26%5D=26&topics%5B31%5D=31&keywords=)
 
 [khanacademy.org/computing](https://www.khanacademy.org/computing)
+
+[edX.org](https://www.edx.org/learn/python)
+
+[cw.fel.cvut.cz](https://cw.fel.cvut.cz/wiki/courses/start)
 
 
 Úlohy na procvičování
