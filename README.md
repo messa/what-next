@@ -38,6 +38,18 @@ Online kurzy
 [github.com/anastazie/programming-fundamentals](https://github.com/anastazie/programming-fundamentals)
 
 
+OCW, MOOC
+---------
+
+[ocw.mit.edu](https://ocw.mit.edu/search/ocwsearch.htm?q=python)
+
+[CS50 (Youtube)](https://www.youtube.com/user/cs50tv), [online-learning.harvard.edu](https://online-learning.harvard.edu/)
+
+[online.stanford.edu](https://online.stanford.edu/courses?topics%5B26%5D=26&topics%5B31%5D=31&keywords=)
+
+[khanacademy.org/computing](https://www.khanacademy.org/computing)
+
+
 Úlohy na procvičování
 ---------------------
 
@@ -113,6 +125,11 @@ Pyvec a spol.:
 [Talk Python to me](https://talkpython.fm/)
 
 [codenewbie.org](https://www.codenewbie.org/)
+
+
+### Videa
+
+[slideslive.com/devel](https://slideslive.com/devel)
 
 
 Kam chodit: meetupy
