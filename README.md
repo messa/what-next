@@ -287,6 +287,12 @@ and [Jupyter cheatsheet](https://github.com/pyvec/pyworking-materials/blob/maste
 
 [Artificial intelligence na FEL ČVUT](https://cw.fel.cvut.cz/wiki/courses/ui/lectures)
 
+https://youtu.be/dgt6IfEXgDk
+
+https://medium.freecodecamp.org/the-power-of-a-neuron-9b5526c2ed46
+
+http://ruder.io/word-embeddings-1/
+
 
 Základní pojmy v IT světě
 -------------------------
