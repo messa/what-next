@@ -330,6 +330,8 @@ https://github.com/trimstray/test-your-sysadmin-skills
 
 https://devdocs.io/
 
+https://www.fullstackpython.com/best-python-videos.html
+
 
 TODO
 ----
