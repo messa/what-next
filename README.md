@@ -332,6 +332,8 @@ https://devdocs.io/
 
 https://www.fullstackpython.com/best-python-videos.html
 
+[GOTO Conferences - Recommended videos (Youtube)](https://www.youtube.com/playlist?list=PLEx5khR4g7PJDpyad03wgvzzTl5Gsww2b)
+
 
 TODO
 ----
