@@ -89,13 +89,13 @@ Co sledovat on-line
 
 ### Twitter
 
-Pyvec a spol.:
-[@pyvec](https://twitter.com/pyvec)
+Česká Python komunita:
 [@napyvo](https://twitter.com/napyvo)
-[@pyconcz](https://twitter.com/pyconcz)
 [@PyLadiesCZ](https://twitter.com/PyLadiesCZ)
+[@pyconcz](https://twitter.com/pyconcz)
 
-[@thepsf](https://twitter.com/thepsf) – The Python Software Foundation
+[@thepsf](https://twitter.com/thepsf) – The Python Software Foundation (světová neziskovka)  
+[@pyvec](https://twitter.com/pyvec) - Pyvec (česká neziskovka)
 
 [@python_tip](https://twitter.com/python_tip) – Daily Python Tip
 
