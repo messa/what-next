@@ -134,6 +134,12 @@ Pyvec a spol.:
 
 [codenewbie.org](https://www.codenewbie.org/)
 
+[se-radio.net](http://www.se-radio.net/) – Software Engineering Radio
+
+[CZPodcast](https://soundcloud.com/czpodcast-1)
+
+[Kafemlejnek](https://kafemlejnek.tv/)
+
 
 ### Videa
 
