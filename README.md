@@ -95,7 +95,7 @@ Co sledovat on-line
 [@pyconcz](https://twitter.com/pyconcz)
 
 [@thepsf](https://twitter.com/thepsf) – The Python Software Foundation (světová neziskovka)  
-[@pyvec](https://twitter.com/pyvec) - Pyvec (česká neziskovka)
+[@pyvec](https://twitter.com/pyvec) – Pyvec (česká neziskovka)
 
 [@python_tip](https://twitter.com/python_tip) – Daily Python Tip
 
