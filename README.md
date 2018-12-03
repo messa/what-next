@@ -73,6 +73,8 @@ Univerzitní kurzy, OCW, MOOC
 
 [Engeto ukoly](https://hack.engeto.com/ukoly)
 
+[github.com/anastazie/programming-fundamentals](https://github.com/anastazie/programming-fundamentals)
+
 
 Summer of code, internshipy
 ---------------------------
