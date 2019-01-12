@@ -147,6 +147,8 @@ Co sledovat on-line
 
 [slideslive.com/devel](https://slideslive.com/devel)
 
+[pyvideo.org](https://pyvideo.org/)
+
 
 Kam chodit: meetupy
 --------------------
