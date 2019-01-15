@@ -346,6 +346,8 @@ https://www.fullstackpython.com/best-python-videos.html
 
 https://github.com/jwasham/coding-interview-university
 
+https://pyformat.info/
+
 
 TODO
 ----
