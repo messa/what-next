@@ -92,14 +92,15 @@ Co sledovat on-line
 ### Twitter
 
 Česká Python komunita:
-[@napyvo](https://twitter.com/napyvo)
-[@PyLadiesCZ](https://twitter.com/PyLadiesCZ)
-[@pyconcz](https://twitter.com/pyconcz)
+[@naPyvo](https://twitter.com/napyvo)
+[@PyLadiesCZ](https://twitter.com/pyladiescz)
+[@PyConCZ](https://twitter.com/pyconcz)
+[@PyDataPrague](https://twitter.com/pydataprague)
 
-[@thepsf](https://twitter.com/thepsf) – The Python Software Foundation (světová neziskovka)  
-[@pyvec](https://twitter.com/pyvec) – Pyvec (česká neziskovka)
+[@thePSF](https://twitter.com/thepsf) – The Python Software Foundation (světová neziskovka)  
+[@Pyvec](https://twitter.com/pyvec) – Pyvec (česká neziskovka)
 
-[@python_tip](https://twitter.com/python_tip) – Daily Python Tip
+[@Python_Tip](https://twitter.com/python_tip) – Daily Python Tip
 
 
 ### Facebook
