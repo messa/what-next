@@ -75,6 +75,8 @@ Univerzitní kurzy, OCW, MOOC
 
 [github.com/anastazie/programming-fundamentals](https://github.com/anastazie/programming-fundamentals)
 
+[Kaggle.com](https://www.kaggle.com/) – pro zájemce o datovou analýzu. Zajímavé soutěže, cvičení a reálné datasety od firem.
+
 
 Summer of code, internshipy
 ---------------------------
