@@ -104,6 +104,8 @@ Co sledovat on-line
 
 [@Python_Tip](https://twitter.com/python_tip) – Daily Python Tip
 
+[@RealPython](https://twitter.com/realpython)
+
 
 ### Facebook
 
