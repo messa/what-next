@@ -58,6 +58,17 @@ Univerzitní kurzy, OCW, MOOC
 [cw.fel.cvut.cz](https://cw.fel.cvut.cz/wiki/courses/start)
 
 
+Pokud jste studentkou/studentem středí školy, tak speciálně pro vás jsou určeny **korespondenční semináře**:
+
+[KSP - Korespondenční seminář z programování MFF UK](https://ksp.mff.cuni.cz/)
+
+[M&M - další korespondenční seminář z MFF UK](https://mam.mff.cuni.cz/)
+
+[Fiťácký informatický korespondenční seminář (FIT ČVUT)](https://fiks.fit.cvut.cz/)
+
+[Mozek, Robotika, Umělá inteligence (FEL ČVUT)](https://morous.fel.cvut.cz/)
+
+
 Úlohy na procvičování
 ---------------------
 
