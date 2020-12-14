@@ -41,6 +41,8 @@ Online kurzy
 
 [github.com/anastazie/programming-fundamentals](https://github.com/anastazie/programming-fundamentals)
 
+[MI-PYT](https://naucse.python.cz/course/mi-pyt/), neboli „Python a jeho knihovny“ – úvody do spousty oblastí, kde lze Python použít
+
 
 Univerzitní kurzy, OCW, MOOC
 ----------------------------
@@ -88,6 +90,8 @@ Pokud jste studentkou/studentem středí školy, tak speciálně pro vás jsou u
 
 [Kaggle.com](https://www.kaggle.com/) – pro zájemce o datovou analýzu. Zajímavé soutěže, cvičení a reálné datasety od firem.
 
+[IB111](https://www.fi.muni.cz/IB111/sbirka/) – sbírka příkladů z kurzu Základy programování na FI MUNI.
+
 
 Summer of code, internshipy
 ---------------------------
@@ -97,6 +101,12 @@ https://1millionwomentotech.com/summerofcode1/
 https://summerofcode.withgoogle.com/
 
 https://kiwicominternships.cz/
+
+
+Hledání práce
+-------------
+
+[junior.guru](https://junior.guru/) – portál pro juniory v IT s [příručkou](https://junior.guru/candidate-handbook/)
 
 
 Co sledovat on-line
