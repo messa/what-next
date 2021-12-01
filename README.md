@@ -41,6 +41,8 @@ Online kurzy
 
 [github.com/anastazie/programming-fundamentals](https://github.com/anastazie/programming-fundamentals)
 
+[Exercism (nejen Python)](https://exercism.org)
+
 
 Univerzitní kurzy, OCW, MOOC
 ----------------------------
